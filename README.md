@@ -1,5 +1,5 @@
-<h1 align="center">#include <stdio.h> int main() { printf("Hello, CodeCrafters! 🌐💻👋\n"); return 0; } Kalophain</h1>
-<h3 align="center">🚀 Aspiring Full Stack Engineer 🌐 | Driven to Optimize and Secure Data | Ready to Build Scalable Solutions | Crafting the Digital Backbone | One Line of Code at a Time | 💻 #FutureDeveloper #CodeEnthusiast #FullStack</h3>
+<h1 align="center" width="5%" >#include <stdio.h> int main() { printf("Hello, CodeCrafters! 🌐💻👋\n"); return 0; } Kalophain</h1>
+<h3 align="center">🚀 Aspiring Full Stack Engineer 🌐 | Driven to Optimize and Secure Data | Ready to Build Scalable Solutions | Crafting the Digital Backbone | One Line of Code at a Time 💻 #FutureDeveloper #CodeEnthusiast #FullStack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalophain14&label=Profile%20views&color=0e75b6&style=flat" alt="kalophain14" /> </p>
 
