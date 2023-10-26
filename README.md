@@ -6,7 +6,6 @@
 - ⚡ I enjoy photography, reading, playing soccer :)
 - 📫 Reach out to me: kalophain@icloud.com
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalophain14&label=Profile%20views&color=0e75b6&style=flat" alt="kalophain14" /> </p>
 
