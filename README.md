@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalophain14&label=Profile%20views&color=0e75b6&style=flat" alt="kalophain14" /> </p>
 
-- 🏢 Software Engineer (Full Stack)
-- 🧰 I build with: `Python` `Django`, `JavaScript`, `flask`, `Typescript`, ...
+- Software Engineer Begineer Level 😅
 - ⚡ I enjoy photography, reading, playing soccer :)
 - 📫 Reach out to me: kalophain@icloud.com
 
