@@ -7,6 +7,6 @@
  
 - 😅 Learning and Growing: As a beginner, I am constantly improving my software development skills.
 - ⚡ Interests: In my free time, I love photography, reading, and playing soccer.
-- 📫 Reach Out: Feel free to contact me via email at kalophain@icloud.com.
+- 📫 Reach Out: Feel free to contact me via twitter at @Kalophain
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalophain14&show_icons=true&locale=en&layout=compact" alt="kalophain14" /></p>
