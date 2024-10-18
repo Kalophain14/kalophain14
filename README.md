@@ -2,9 +2,9 @@
 
 👋 About Me
 
-Hi there! I’m a beginner software engineer exploring the world of development.
-I enjoy learning new things and building simple projects in JavaScript.
-  
+- Hi there! I’m a beginner software engineer exploring the world of development.
+- I enjoy learning new things and building simple projects in JavaScript.
+ 
 - 😅 Learning and Growing: As a beginner, I am constantly improving my software development skills.
 - ⚡ Interests: In my free time, I love photography, reading, and playing soccer.
 - 📫 Reach Out: Feel free to contact me via email at kalophain@icloud.com.
