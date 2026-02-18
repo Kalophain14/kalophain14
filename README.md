@@ -3,7 +3,7 @@
 👋 About Me
 
 - Hi there! I’m a beginner software engineer exploring the world of development.
-- I enjoy learning new things and building simple projects in Java Developer.
+- I enjoy learning new things and building simple projects.
  
 - 😅 Learning and Growing: As a beginner, I am constantly improving my software development skills.
 - ⚡ Interests: In my free time, I love photography, making music, reading, and playing soccer.
