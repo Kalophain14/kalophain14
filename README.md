@@ -1,4 +1,4 @@
-![header](./wave_banner.svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&text=Kalo.java&fontSize=45&fontColor=ffffff&fontAlignY=42&desc=Entry-Level%20Dev%20%7C%20Creative%20Soul%20%7C%20Always%20Learning&descAlignY=62&descSize=13&animation=fadeIn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kalophain14&label=Views&color=f89820&style=flat-square)
 
@@ -39,8 +39,13 @@ try {
 
 ## 📦 Projects
 
+### 🌐 Personal Portfolio
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Kalophain14&repo=kalophain-portfolio&theme=radical&hide_border=true&title_color=f89820&icon_color=f89820)](https://github.com/Kalophain14/kalophain-portfolio)
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=Kalophain14&repo=java_projects&theme=radical&hide_border=true&title_color=f89820&icon_color=f89820&description=Apple-vibe+Calculator+%26+more)](https://github.com/Kalophain14/java_projects)
+
+[![Portfolio Preview](https://raw.githubusercontent.com/Kalophain14/kalophain-portfolio/main/assets/project-1.png)](https://github.com/Kalophain14/kalophain-portfolio)
+
+### ☕ Java Projects
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=Kalophain14&repo=java_projects&theme=radical&hide_border=true&title_color=f89820&icon_color=f89820)](https://github.com/Kalophain14/java_projects)
 
 ---
 
@@ -52,4 +57,4 @@ try {
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kalophain)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kalophain14)
 
-![footer](./wave_footer.svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5382a1,50:f89820,100:b07219&height=80&section=footer)
