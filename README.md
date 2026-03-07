@@ -40,7 +40,7 @@ try {
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/java_projects) [![Calculator](https://img.shields.io/badge/Calculator-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kalophain14/java_projects/tree/main/Calculator) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
-[![Calculator Preview](https://raw.githubusercontent.com/Kalophain14/java_projects/main/Calculator/assets/calculator-preview.png)](https://github.com/Kalophain14/java_projects/tree/main/Calculator)
+[![Calculator Preview](https://raw.githubusercontent.com/Kalophain14/java_projects/main/Calculator/assets/%20calculator-preview.png)](https://github.com/Kalophain14/java_projects/tree/main/Calculator)
 
 ---
 
