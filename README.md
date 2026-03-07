@@ -29,7 +29,7 @@ try {
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/kalophain-portfolio) ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
 
-**☕ Java Projects** — `java_projects`
+**☕ Java Projects** — `apple calculator`
 > Apple-vibe Calculator & more Java experiments.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/java_projects) [![Calculator](https://img.shields.io/badge/Calculator-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kalophain14/java_projects/tree/main/Calculator) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
