@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&text=Entry-Level%20Dev%20%7C%20Creative%20Soul%20%7C%20Always%20Learning&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&desc=Entry-Level%20Dev%20%7C%20Creative%20Soul%20%7C%20Always%20Learning&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kalophain14&label=Views&color=f89820&style=flat-square)
 
