@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&desc=Entry-Level%20Dev%20%7C%20Creative%20Soul%20%7C%20Always%20Learning&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&animation=fadeIn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kalophain14&label=Views&color=f89820&style=flat-square)
 
@@ -48,5 +48,7 @@ try {
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kalophain)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/kalophain14)
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5382a1,50:f89820,100:b07219&height=80&section=footer)
