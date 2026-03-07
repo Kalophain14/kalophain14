@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&text=Kalo.java&fontSize=45&fontColor=ffffff&fontAlignY=42&desc=Entry-Level%20Dev%20%7C%20Creative%20Soul%20%7C%20Always%20Learning&descAlignY=62&descSize=13&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b07219,50:f89820,100:5382a1&height=140&text=Entry-Level%20Dev%20%7C%20Creative%20Soul%20%7C%20Always%20Learning&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kalophain14&label=Views&color=f89820&style=flat-square)
 
@@ -40,7 +40,7 @@ try {
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/java_projects) [![Calculator](https://img.shields.io/badge/Calculator-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kalophain14/java_projects/tree/main/Calculator) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
-[![Calculator Preview](https://raw.githubusercontent.com/Kalophain14/java_projects/main/assets/calculator-preview.png)](https://github.com/Kalophain14/java_projects/tree/main/Calculator)
+[![Calculator Preview](https://raw.githubusercontent.com/Kalophain14/java_projects/main/Calculator/assets/calculator-preview.png)](https://github.com/Kalophain14/java_projects/tree/main/Calculator)
 
 ---
 
