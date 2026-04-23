@@ -4,9 +4,18 @@
 ---
 
 ```java
-try {
-    while (!senior) { learn(); build(); iterate(); }
-} catch (BugException e) { debug(); } // ← I live here
+public class Developer {
+
+    String name = "Kalophain";
+    boolean learning = true;
+    boolean givingUp = false;
+
+    void myJourney() {
+        while (!senior) {
+            learn(); build(); improve();
+        }
+    }
+}
 ```
 
 > Building things. Breaking things. Learning everything.
