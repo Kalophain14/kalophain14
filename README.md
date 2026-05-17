@@ -13,25 +13,17 @@ public class Developer {
 }
 ```
 
-> Building things. Breaking things. Learning everything.
+`Building things. Breaking things. Learning everything.`
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="140"/>
-</div>
+<img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
 
 <br/>
 
 **🌐 Personal Portfolio** — `kalophain-portfolio`
 > My corner of the internet. Always a work in progress.
 
-<a href="https://github.com/Kalophain14/kalophain-portfolio">
-  <img src="https://github.com/Kalophain14/kalophain-portfolio/blob/main/assets/project-1.png?raw=true" width="400"/>
-</a>
-
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/kalophain-portfolio)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
-
-<br/>
 
 **☕ Java Projects** — `java_projects`
 > Apple-vibe Calculator & other Java experiments. Where the learning happens.
@@ -45,3 +37,10 @@ public class Developer {
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kalophain14&show_icons=true&theme=dark&title_color=f89820&icon_color=f89820&text_color=ffffff&bg_color=0d1117&hide_border=true&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalophain14&layout=compact&theme=dark&title_color=f89820&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=4" height="150"/>
+
+<br/>
+
+![Snake](https://raw.githubusercontent.com/Kalophain14/Kalophain14/output/github-contribution-grid-snake-dark.svg)
