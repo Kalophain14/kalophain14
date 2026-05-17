@@ -45,12 +45,3 @@ public class Developer {
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 <br/>
-
-<div align="left">
-  <a href="https://github.com/kalophain14">
-    <img src="https://github-readme-stats.vercel.app/api?username=kalophain14&show_icons=true&theme=dark&title_color=f89820&icon_color=f89820&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150"/>
-  </a>
-  <a href="https://github.com/kalophain14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalophain14&layout=compact&theme=dark&title_color=f89820&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150"/>
-  </a>
-</div>
