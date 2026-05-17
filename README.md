@@ -36,5 +36,3 @@ public class Developer {
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Kalophain)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kalophain14)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5382a1,50:f89820,100:b07219&height=80&section=footer)
