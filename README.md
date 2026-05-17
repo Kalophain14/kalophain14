@@ -16,7 +16,7 @@ public class Developer {
 > Building things. Breaking things. Learning everything.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
 </div>
 
 <br/>
