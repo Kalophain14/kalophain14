@@ -23,7 +23,7 @@ public class Developer {
 > My corner of the internet. Always a work in progress.
 
 <a href="https://github.com/Kalophain14/kalophain-portfolio">
-  <img src="https://github.com/Kalophain14/kalophain-portfolio/blob/main/assets/project-1.png?raw=true" width="400"/>
+  <img src="https://github.com/Kalophain14/kalophain-portfolio/blob/main/frontend/assets/project-1.png?raw=true" width="400"/>
 </a>
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/kalophain-portfolio)
