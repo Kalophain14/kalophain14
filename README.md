@@ -13,7 +13,7 @@ public class Developer {
 }
 ```
 
-`Building things. Breaking things. Learning everything.`
+`Building things. Breaking things. Learning everyday.`
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
 
