@@ -14,7 +14,8 @@ public class Developer {
 ```
 
 `Building things. Breaking things. Learning everyday.`
-`☕ **Learning Things the Hard Way**`
+
+`☕ Learning Things the Hard Way`
 
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
