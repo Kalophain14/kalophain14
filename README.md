@@ -2,20 +2,26 @@
 
 ```java
 public class Developer {
-    String name = "Kalophain";
+    String name;
+    boolean learning = true;
+    boolean building = false;
     boolean senior = false;
 
-    void learn()   { System.out.println(name + " is learning..."); }
-    void build()   { System.out.println(name + " is building..."); }
-    void improve() { System.out.println(name + " is improving..."); senior = true; }
+    Developer(String name) { this.name = name; }
+
+    void learn()   { learning = true;  System.out.println(name + " is learning..."); }
+    void build()   { building = true;  System.out.println(name + " is building..."); }
+    void improve() {
+        if (learning && building) senior = true;
+    }
 
     void myJourney() {
         while (!senior) { learn(); build(); improve(); }
-        System.out.println(name + " is now a senior developer!");
+        System.out.println(name + " is senior!");
     }
 
     public static void main(String[] args) {
-        new Developer().myJourney();
+        new Developer("Kalophain").myJourney();
     }
 }
 ```
