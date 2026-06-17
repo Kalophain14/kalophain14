@@ -3,12 +3,19 @@
 ```java
 public class Developer {
     String name = "Kalophain";
-    boolean learning = true;
-    boolean givingUp = false;
+    boolean senior = false;
+
+    void learn()   { System.out.println(name + " is learning..."); }
+    void build()   { System.out.println(name + " is building..."); }
+    void improve() { System.out.println(name + " is improving..."); senior = true; }
+
     void myJourney() {
-        while (!senior) {
-            learn(); build(); improve();
-        }
+        while (!senior) { learn(); build(); improve(); }
+        System.out.println(name + " is now a senior developer!");
+    }
+
+    public static void main(String[] args) {
+        new Developer().myJourney();
     }
 }
 ```
