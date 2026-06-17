@@ -9,8 +9,8 @@ public class Developer {
 
     Developer(String name) { this.name = name; }
 
-    void learn()   { learning = true;  System.out.println(name + " is learning..."); }
-    void build()   { building = true;  System.out.println(name + " is building..."); }
+    void learn() { learning = true;  System.out.println(name + " is learning..."); }
+    void build() { building = true;  System.out.println(name + " is building..."); }
     void improve() {
         if (learning && building) senior = true;
     }
