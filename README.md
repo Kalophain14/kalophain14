@@ -25,9 +25,6 @@ public class Developer {
     }
 }
 ```
-
-`Building things. Breaking things. Learning everyday.`
-
 `☕ Learning Things the Hard Way`
 
 
