@@ -25,7 +25,7 @@ public class Developer {
     }
 }
 ```
-`☕ Learning Things the Hard Way`
+`☕ Learning Things The Hard Way`
 
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
