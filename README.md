@@ -4,17 +4,18 @@
 class Developer {
     String name = "Kalophain";
     boolean learning = true, building = true, senior = false;
-
     void grind() { while (!senior) senior = learning && building; }
 }
 
 class BackendDeveloper extends Developer {
     boolean scalesSystems = true;
-    { grind(); System.out.println(name + " → building the stuff you don't see."); }
+    { grind();
+      System.out.println(name + " → building the stuff you don't see."); }
 }
 ```
-`☕ We are the ghosts in the architecture stripping syntax to leave only signal.
-   We are No-one. `
+`☕ We are the ghosts in the architecture
+   Stripping syntax to leave only signal.
+   We are No-one.`
 
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
