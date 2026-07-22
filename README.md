@@ -10,7 +10,8 @@ class Developer {
 class BackendDeveloper extends Developer {
     boolean scalesSystems = true;
     { grind();
-      System.out.println(name + " → building the stuff you don't see."); }
+      System.out.println(name + " → building the stuff you don't see.");
+    }
 }
 ```
 `☕ We are the ghosts in the architecture
