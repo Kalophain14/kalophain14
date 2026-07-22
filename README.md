@@ -16,7 +16,7 @@ class BackendDeveloper extends Developer {
 ```
 `☕ We are the ghosts in the architecture
    Stripping syntax to leave only signal.
-   We are No-one.`
+   We are Noone.`
 
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
