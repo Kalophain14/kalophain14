@@ -1,31 +1,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kalophain14&label=Views&color=f89820&style=flat-square)
 
 ```java
-public class Developer {
-    String name;
-    boolean learning = true;
-    boolean building = false;
-    boolean senior = false;
+class Developer {
+    String name = "Kalophain";
+    boolean learning = true, building = true, senior = false;
 
-    Developer(String name) { this.name = name; }
+    void grind() { while (!senior) senior = learning && building; }
+}
 
-    void learn() { learning = true;  System.out.println(name + " is learning..."); }
-    void build() { building = true;  System.out.println(name + " is building..."); }
-    void improve() {
-        if (learning && building) senior = true;
-    }
-
-    void myJourney() {
-        while (!senior) { learn(); build(); improve(); }
-        System.out.println(name + " is senior!");
-    }
-
-    public static void main(String[] args) {
-        new Developer("Kalophain").myJourney();
-    }
+class BackendDeveloper extends Developer {
+    boolean scalesSystems = true;
+    { grind(); System.out.println(name + " → building the stuff you don't see."); }
 }
 ```
-`☕ Learning Things The Hard Way`
+`☕ 
+Learning Things The Hard Way
+We are the ghosts in the architecture stripping syntax to leave only signal.
+We are No-one.
+`
 
 
 <img src="https://skillicons.dev/icons?i=java,spring,aws,git" width="130"/>
