@@ -30,11 +30,13 @@ class BackendDeveloper extends Developer {
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
 
 **☕ Java Projects** — `java_projects`
-> Apple-vibe Calculator & other Java experiments. Where the learning happens.
+> BankCore API — a banking backend simulation built using Java Spring Boot.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/java_projects)
-[![Calculator](https://img.shields.io/badge/Calculator-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Kalophain14/java_projects/tree/main/Calculator)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+[View Repo](https://github.com/Kalophain14/java_projects) · [BankCore API](https://github.com/Kalophain14/java_projects/tree/main/03_bankcore-api)
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Kalophain14/java_projects/tree/main/03_bankcore-api)
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
+
 
 <br/>
 
