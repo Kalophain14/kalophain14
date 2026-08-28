@@ -24,7 +24,7 @@ class BackendDeveloper extends Developer {
 <br/>
 
 **🌐 noone** — `kalophain-portfolio`
-> My corner of the internet. Always a work in progress.
+> my corner of the internet. Always a work in progress.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/kalophain-portfolio)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
