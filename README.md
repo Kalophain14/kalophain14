@@ -26,13 +26,13 @@ class BackendDeveloper extends Developer {
 **🌐 t-c.io**
 > corner of the internet. Always a work in progress.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/kalophain-portfolio)
+[![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/t-c.io)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
 
 **☕ bankcore API**
 > a banking backend simulation built using Java Spring Boot.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/t-c.io)
+[![View Repo](https://img.shields.io/badge/View%20Repo-f89820?style=flat-square&logo=github&logoColor=black)](https://github.com/Kalophain14/java_projects/tree/main/03_bankcore-api)
 [![BankCore API](https://img.shields.io/badge/BankCore%20API-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Kalophain14/java_projects/tree/main/03_bankcore-api)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
 
